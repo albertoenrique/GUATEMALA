@@ -1,0 +1,115 @@
+/* .row {
+    justify-content: center;
+}
+
+#cuerpo {
+    background-color: rgba(61, 61, 61, 0.438);
+    border-radius: 3%;
+    padding: 5px;
+    box-shadow: 8px 8px 2px 1px rgba(0, 0, 0, 0.2);
+    color: white;
+    text-align: center;
+}
+
+.itemNombre {
+    color: white;
+    font-weight: 300;
+}
+
+#cuerpo:hover {
+    background-color: rgba(61, 61, 61, 0.411);
+    width: 18rem;
+    border-radius: 3%;
+    padding: 5px;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+
+    transform: translate(0,-2px);
+    transition: 0.5s all;
+}
+
+.linkPrecio {
+    text-decoration: none;
+    color: white;
+}
+
+.linkPrecio:hover {
+    text-decoration: none;
+    color: white;
+}
+
+.botonPrecio {
+    width: 100%;
+} */
+
+.card {
+    background-color: rgb(241, 241, 241);
+}
+.editC p {
+    background-color: rgb(241, 241, 241);
+}
+
+.absolute {
+    position: relative;
+}
+
+.imgProd{
+    width: 100%;
+}
+
+.logosb {
+    left: 50%;
+    position: absolute;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+
+}
+
+.spanStock {
+    background-color: rgb(241, 241, 241);
+    color: rgb(202, 132, 3);
+}
+
+.Descripcion {
+    color: gray;
+    margin-top: -20px;
+    font-size: 12px;
+}
+
+.botonInfo {
+    background-color: #dc3545 !important;
+    border: 1px solid #dc3545 !important;;
+    border-radius: 10px!important;
+}
+
+.botonInfo:hover {
+    background-color: #b82937 !important;
+    color: rgb(53, 52, 52) !important;
+    transition: all 1s;
+}
+
+.botonLogin {
+    background-color: #000000 !important;
+    border: 1px solid #000000 !important;;
+    border-radius: 10px!important;
+    margin-left: 60px;
+}
+
+.botonCompra {
+    background-color: #000000 !important;
+    border: 1px solid #000000 !important;;
+    border-radius: 10px!important;
+    margin-left: 30px;
+}
+.flexContainer {
+    box-shadow: 15px 17px 13px -11px rgba(0,0,0,0.9);
+-webkit-box-shadow: 15px 17px 13px -11px rgba(0,0,0,0.9);
+-moz-box-shadow: 15px 17px 13px -11px rgba(0,0,0,0.9);
+}
+
+.spanIva {
+    background-color: white;
+    color: gray;
+    font-size: 10px;
+} 
